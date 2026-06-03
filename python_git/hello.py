@@ -4,6 +4,4 @@
 @File   : hello.py
 @Desc   :
 """
-print("hello world")
-"hello"
-print("hello python")
+# main分支代码
